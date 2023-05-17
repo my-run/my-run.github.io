@@ -14,6 +14,6 @@ Its southern border with the United States is the world's longest international 
 
 ![canadaPic](/assets/img/canada.png)
 
-### Canada Climate
+
 [Canada_Köppen](/assets/img/Canada_Köppen.svg)
 
