@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Zhong County's Cadre
-subtitle: Each post also has a subtitle
+subtitle: Feng Junqi - Sociology Department
 tags: [China]
 comments: true
 ---
 
 ## Zhong County's Cadre
-Feng Junqi Sociology Department - Directed by Professor Zheng Yefu
+Feng Junqi - Sociology Department - Directed by Professor Zheng Yefu
 
 [Download](assets/Zhong_County's_Cadre.pdf)
 
