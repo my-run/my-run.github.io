@@ -9,6 +9,8 @@ comments: true
 ## Zhong County's Cadre
 Feng Junqi Sociology Department - Directed by Professor Zheng Yefu
 
+[Download](assets/Zhong_County's_Cadre.pdf)
+
 Under the background of summarizing and reflecting upon the
 Reform and Opening up in
 the past 30 years, this research, with the method of analyzing the career of the political
