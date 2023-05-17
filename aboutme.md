@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Gai chi chi gai he he, sha shier bie wang xin li ge.
 ---
 
 My name is Guo Yi Zhuo(Enzo). I'm an engineer and project manager.
