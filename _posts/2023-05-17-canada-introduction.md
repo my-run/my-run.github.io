@@ -12,7 +12,7 @@ Canada is a country in North America. Its ten provinces and three territories ex
 
 ![canadaPic](/assets/img/canada.png)
 ### CONTENTS
-* [Climate]
+* 
 
 ### Canada Climate
 [Canada_Köppen](/assets/img/Canada_Köppen.svg)
