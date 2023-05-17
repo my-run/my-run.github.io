@@ -6,11 +6,6 @@ tags: [China]
 comments: true
 ---
 
-## Zhong County's Cadre
-Feng Junqi - Sociology Department - Directed by Professor Zheng Yefu
-
-[Download](assets/Zhong_County's_Cadre.pdf)
-
 Under the background of summarizing and reflecting upon the Reform and Opening up in
 the past 30 years, this research, with the method of analyzing the career of the political
 elites, to do a multi-level and -angle investigation of their changes and promotion since
@@ -31,3 +26,5 @@ their birthplaces are not evenly distributed, as can be seen from the prominent 
 of a specific colony of elite cadres originating from the same place.
 
 ... ...
+
+[Download](assets/Zhong_County's_Cadre.pdf)
