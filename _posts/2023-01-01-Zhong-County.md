@@ -27,4 +27,4 @@ of a specific colony of elite cadres originating from the same place.
 
 ... ...
 
-[Download](assets/Zhong_County's_Cadre.pdf)
+[Download](/assets/Zhong_County's_Cadre.pdf)
