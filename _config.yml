@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
