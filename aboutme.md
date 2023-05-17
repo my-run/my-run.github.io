@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is _Guo Yi Zhuo(Enzo)_.
+My name is Guo Yi Zhuo(Enzo). I'm an engineer and project manager.
 
 ### My story
 
