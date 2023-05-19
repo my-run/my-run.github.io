@@ -5,10 +5,11 @@ subtitle: a list of available programmes
 tags: [study]
 comments: true
 ---
+I love to create, and I want to make a difference in the world. 
 
 ## Programmes
 
-I love to create, and I want to make a difference in the world. Here are some programmes of Mechanical Engineering and Computer Science.
+Here are some programmes of Mechanical Engineering and Computer Science.
 
 {: .box-warning}
 **Useful links:** [SchoolFinder](https://www.schoolfinder.com/), [GPA Calculator](https://applications.wes.org/igpa-calculator/), [ApplyBoard](https://www.applyboard.com/)
