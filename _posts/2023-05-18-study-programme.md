@@ -22,6 +22,8 @@ comments: true
 | Fairleigh Dickinson University | Master, BCPNP  | Vancouver | [ Master of Science in Applied Computer Science (MSACS) ](https://www.fdu.edu/program/msacs-applied-computer-science/) | 2.75/4 | 6.5(6.5) | Fall, Spring, Summer | 2 years | $35,000 USD |
 | British Columbia Institute of Technology(BCIT) | Diploma | Vancouver | [ Computer Systems Technology ](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) | N/A | 6.5(6.0) | January 1(March 15 ~ August 30) | 2 years | $46,000 CND |
 | Concordia University | Master | Montreal | [Computer Science (MApCompSc) ](https://www.concordia.ca/academics/graduate/computer-science-mcompsci-applied.html) | N/A | 6.5(6.0) | Fall, Winter | 2 years | $35,000 CND |
+| Dalhousie University | Master | Halifax | [Master of Applied Computer Science](https://www.dal.ca/faculty/computerscience/graduate-programs/grad-handbook/how-to-apply.html) | 3.0/4 | 7.0 | January(August 1), September(March 1) | 2 years | N/A|
+
 
 {: .box-note}
 **Note:** [*The Times Higher Education World University Rankings 2022
