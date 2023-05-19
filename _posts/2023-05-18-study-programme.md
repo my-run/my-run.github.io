@@ -19,8 +19,7 @@ I love to create, and I want to make a difference in the world. Here are some pr
 | :--------- |:------- | :--- | :-------- | :-- | :---- | :------- | :------- | :----- |
 | University of Calgary | Master | Calgary | [Mechanical and Manufacturing Engineering](https://grad.ucalgary.ca/future-students/explore-programs/mechanical-and-manufacturing-engineering-meng-course) | 3.0/4 | 6.5(6.0) | September 1(March 1) | 2 years | $38,000 CND |
 | University of British Columbia | Master, BCPNP  | Vancouver | [MASTER OF ENGINEERING (MENG) IN MECHATRONICS DESIGN](https://mech.ubc.ca/graduate/prospective/applications-admissions/meng-mechatronics-design/) | 3.0/4 | 6.5(6.0) | September 1(October 1 ~ February 15) | 12 months | $25,000 CND |
-
-
+| Lakehead University | Master | Thunder Bay,ON | [MSc in Mechanical Engineering](https://www.lakeheadu.ca/programs/graduate/programs/masters/engineering-mechanical/node/17225#requirements) | 70% average | 6.5(6.0) - Duolingo 115 | September 1(October 1 ~ February 15) | 0 months | $0 CND |
 
 
 
