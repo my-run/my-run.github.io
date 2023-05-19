@@ -36,6 +36,7 @@ Here are some programmes of Mechanical Engineering and Computer Science.
 | Northeastern University | Master, BCPNP  | Vancouver | [Align Master of Science in Computer Science](https://vancouver.northeastern.edu/academic_program/align-master-of-science-in-computer-science/) | 3.0/4 | 7.5 | September 1(April 15) | 2.5 years | $75,000 CAD |
 | Fairleigh Dickinson University | Master, BCPNP  | Vancouver | [ Master of Science in Applied Computer Science (MSACS) ](https://www.fdu.edu/program/msacs-applied-computer-science/) | 2.75/4 | 6.5(6.5) | Fall, Spring, Summer | 2 years | $35,000 USD |
 | British Columbia Institute of Technology(BCIT) | Diploma | Vancouver | [ Computer Systems Technology ](https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/) | N/A | 6.5(6.0) | January 1(March 15 ~ August 30) | 2 years | $46,000 CAD |
+| Southern Alberta Institute of Technology(SAIT) | Diploma | Calgary | [ Software Development ](https://www.sait.ca/programs-and-courses/diplomas/software-development) | N/A | 6.5(6.0) | January 8() | 2 years | $51,000 CAD |
 | Concordia University | Master | Montreal | [Computer Science (MApCompSc) ](https://www.concordia.ca/academics/graduate/computer-science-mcompsci-applied.html) | N/A | 6.5(6.0) | Fall, Winter | 2 years | $35,000 CAD |
 | Dalhousie University | Master | Halifax | [Master of Applied Computer Science](https://www.dal.ca/faculty/computerscience/graduate-programs/grad-handbook/how-to-apply.html) | 3.0/4 | 7.0 | January(August 1), September(March 1) | 2 years | N/A|
 
