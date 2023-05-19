@@ -15,37 +15,14 @@ comments: true
 | University of Calgary | Canada | Calgary | [Master of Engineering - Software (MEng Soft)](https://grad.ucalgary.ca/future-students/explore-programs/mechanical-and-manufacturing-engineering-meng-course) | 3.0/4 | 6.5(6.0) | September 1(March 1) |
 | University of British Columbia | Canada | Vancouver | [BCS (Second Degree) Computer Science](https://www.cs.ubc.ca/students/undergrad/degree-programs/bcs-program-second-degree) | 3.0/4 | 6.5(6.0) | September 1(January 15) |
 
-
-[*The Times Higher Education World University Rankings 2022
+{: .box-note}
+**Note:** [*The Times Higher Education World University Rankings 2022
 ](https://www.timeshighereducation.com/world-university-rankings/2022/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats)
 
 
 
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
 
 And here is the same code yet again but with line numbers:
 
@@ -55,14 +32,6 @@ var foo = function(x) {
 }
 foo(3)
 {% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
 
 ### Warning
 
