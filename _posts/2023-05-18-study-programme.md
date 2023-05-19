@@ -11,8 +11,8 @@ comments: true
 
 | University | Highlight | City | Programme | GPA | IELTS | Deadline | Duration | Tuition|
 | :--------- |:------- | :--- | :-------- | :-- | :---- | :------- | :------- | :----- |
-| University of Calgary | Master | Calgary | [Mechanical and Manufacturing Engineering](https://grad.ucalgary.ca/future-students/explore-programs/electrical-and-computer-engineering-meng-software-course) | 3.0/4 | 6.5(6.0) | September 1(March 1) | 2 years | N/A |
-| University of Calgary | Master | Calgary | [Master of Engineering - Software (MEng Soft)](https://grad.ucalgary.ca/future-students/explore-programs/mechanical-and-manufacturing-engineering-meng-course) | 3.0/4 | 6.5(6.0) | September 1(March 1) | 2 years | N/A |
+| University of Calgary | Master | Calgary | [Master of Engineering - Software (MEng Soft)](https://grad.ucalgary.ca/future-students/explore-programs/electrical-and-computer-engineering-meng-software-course) | 3.0/4 | 6.5(6.0) | September 1(March 1) | 2 years | N/A |
+| University of Calgary | Master | Calgary | [Mechanical and Manufacturing Engineering](https://grad.ucalgary.ca/future-students/explore-programs/mechanical-and-manufacturing-engineering-meng-course) | 3.0/4 | 6.5(6.0) | September 1(March 1) | 2 years | N/A |
 | University of British Columbia | Bachelor | Vancouver | [BCS (Second Degree) Computer Science](https://www.cs.ubc.ca/students/undergrad/degree-programs/bcs-program-second-degree) | 3.0/4 | 6.5(6.0) | September 1(January 15) | 2 years | N/A |
 | University of British Columbia | Master, BCPNP | Vancouver | [MASTER OF DATA SCIENCE (MDS)](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-data-science) | 3.0/4 | 6.5(6.0) | September 1(January 31) | 10 months | $53,000 CND |
 | University of British Columbia | Master, BCPNP  | Vancouver | [MASTER OF ENGINEERING (MENG) IN MECHATRONICS DESIGN](https://mech.ubc.ca/graduate/prospective/applications-admissions/meng-mechatronics-design/) | 3.0/4 | 6.5(6.0) | September 1(October 1 ~ February 15) | 12 months | $25,000 CND |
