@@ -4,6 +4,7 @@ title: Study Programme
 subtitle: a list of available programmes
 tags: [study]
 comments: true
+full-width: true
 ---
 I love to create, and I want to make a difference in the world. 
 
