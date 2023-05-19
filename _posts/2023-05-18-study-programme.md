@@ -8,6 +8,8 @@ comments: true
 
 ## Programmes
 
+I love to create, and I want to make a difference in the world. Here are some programmes of Mechanical Engineering and Computer Science.
+
 {: .box-warning}
 **Warning:** [SchoolFinder](https://www.schoolfinder.com/)
 
