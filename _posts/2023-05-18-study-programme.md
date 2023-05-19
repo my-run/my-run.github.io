@@ -11,7 +11,7 @@ comments: true
 I love to create, and I want to make a difference in the world. Here are some programmes of Mechanical Engineering and Computer Science.
 
 {: .box-warning}
-**Warning:** [SchoolFinder](https://www.schoolfinder.com/)
+**Useful links:** [SchoolFinder](https://www.schoolfinder.com/)
 
 | University | Highlight | City | Programme | GPA | IELTS | Deadline | Duration | Tuition|
 | :--------- |:------- | :--- | :-------- | :-- | :---- | :------- | :------- | :----- |
@@ -33,7 +33,15 @@ I love to create, and I want to make a difference in the world. Here are some pr
 
 
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+![Crepe](/my-run.github.io/assets/img/hero-vancouver-skyline-british-columbia-citystudio.jpg){: .mx-auto.d-block :}
+
+
+
+## Processes
+
+1. [学信网成绩认证](https://www.zhihu.com/tardis/bd/art/381855478?source_id=1001)
+2. [WES](#)
+3. IRCC - CRS
 
 
 And here is the same code yet again but with line numbers:
