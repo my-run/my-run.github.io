@@ -30,7 +30,7 @@ Here are some programmes of Mechanical Engineering and Computer Science.
 
 | University | Highlight | City | Programme | GPA | IELTS | Deadline | Duration | Tuition|
 | :--------- |:------- | :--- | :-------- | :-- | :---- | :------- | :------- | :----- |
-| University of Calgary | Master | Calgary | [Master of Engineering - Software (MEng Soft)](https://grad.ucalgary.ca/future-students/explore-programs/electrical-and-computer-engineering-meng-software-course) | 3.0/4 | 6.5(6.0) | September 1(March 1) | 2 years | $38,000 CAD |
+| 🌟University of Calgary | Master | Calgary | [Master of Engineering - Software (MEng Soft)](https://grad.ucalgary.ca/future-students/explore-programs/electrical-and-computer-engineering-meng-software-course) | 3.0/4 | 6.5(6.0) | September 1(March 1) | 2 years | $38,000 CAD |
 | University of British Columbia | Bachelor | Vancouver | [BCS (Second Degree) Computer Science](https://www.cs.ubc.ca/students/undergrad/degree-programs/bcs-program-second-degree) | 3.0/4 | 6.5(6.0) | September 1(January 15) | 2 years | N/A |
 | University of British Columbia | Master, BCPNP | Vancouver | [MASTER OF DATA SCIENCE (MDS)](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-data-science) | 3.0/4 | 6.5(6.0) | September 1(January 31) | 10 months | $53,000 CAD |
 | 🌟Northeastern University | Master, BCPNP  | Vancouver | [Align Master of Science in Computer Science](https://vancouver.northeastern.edu/academic_program/align-master-of-science-in-computer-science/) | 3.0/4 | 7.5 | September 1(April 15) | 2.5 years | $75,000 CAD |
