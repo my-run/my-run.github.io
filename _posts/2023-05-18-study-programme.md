@@ -14,10 +14,15 @@ I love to create, and I want to make a difference in the world. Here are some pr
 **Useful links:** [SchoolFinder](https://www.schoolfinder.com/), [GPA Calculator](https://applications.wes.org/igpa-calculator/)
 
 ### Mechanical Engineering
+
 | University | Highlight | City | Programme | GPA | IELTS | Deadline | Duration | Tuition|
 | :--------- |:------- | :--- | :-------- | :-- | :---- | :------- | :------- | :----- |
 | University of Calgary | Master | Calgary | [Mechanical and Manufacturing Engineering](https://grad.ucalgary.ca/future-students/explore-programs/mechanical-and-manufacturing-engineering-meng-course) | 3.0/4 | 6.5(6.0) | September 1(March 1) | 2 years | $38,000 CND |
 | University of British Columbia | Master, BCPNP  | Vancouver | [MASTER OF ENGINEERING (MENG) IN MECHATRONICS DESIGN](https://mech.ubc.ca/graduate/prospective/applications-admissions/meng-mechatronics-design/) | 3.0/4 | 6.5(6.0) | September 1(October 1 ~ February 15) | 12 months | $25,000 CND |
+
+
+
+
 
 
 ### Computer Science
