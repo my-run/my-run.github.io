@@ -25,7 +25,7 @@ I want an aircraft with 4 seats, high wings, and a tailwheel. There are two deci
 
 I’m happy to share the following story with you. I hope that others can learn from my experiences and get inspired to go work on their own. Please keep in touch with me and follow along with the project and my adventures.
 
-# Time-line
+#Time-line
 
 - **IELTS:** 2023-*-*
 - **VISA:** 2023-*-*
