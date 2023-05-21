@@ -4,13 +4,12 @@ title: About me
 subtitle: Gai chi chi gai he he, sha shier bie wang xin li ge.
 ---
 
-I'm Mr. Dong. An engineer and project manager.
+I'm Mr. DSZ. An engineer and project manager.
 
-# Table of contents
+# My RUN in 3 steps
 
 - [My Story](#my-story)
 - [Time Line](#time-line)
-- [**My RUN** in 3 steps](##My-RUN)
 
 
 # My story
@@ -25,10 +24,9 @@ I want an aircraft with 4 seats, high wings, and a tailwheel. There are two deci
 
 I’m happy to share the following story with you. I hope that others can learn from my experiences and get inspired to go work on their own. Please keep in touch with me and follow along with the project and my adventures.
 
-# Time-line
+# Time line
 
 - **IELTS:** 2023-*-*
 - **VISA:** 2023-*-*
 - **Tickets:** 2023-*-*
 
-## My RUN
