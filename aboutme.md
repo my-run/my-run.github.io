@@ -6,14 +6,14 @@ subtitle: Gai chi chi gai he he, sha shier bie wang xin li ge.
 
 My name is Enzo Guo. I'm an engineer and project manager.
 
-## Table of contents
+# Table of contents
 
-- [My Story](#My-story)
+- [My Story](#Mystory)
 - [Time Line](#Time-line)
 - [**My RUN** in 3 steps](##My-RUN)
 
 
-# My story
+# Mystory
 
 Like a lot of kids, I dreamed of flying. As an adult, that dream didn’t fade away. Maybe someday, after a lot of work, I could make my dream a reality. Growing up, it didn’t seem like there were many opportunities in aviation for someone like me in China mainland. Flying was a dream and, I thought, a dream only.
 
