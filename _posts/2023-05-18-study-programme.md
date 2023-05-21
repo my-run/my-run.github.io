@@ -6,11 +6,18 @@ tags: [study]
 comments: true
 full-width: true
 ---
-I love to create, and I want to make a difference in the world. 
+
+Canada has been seen as a popular destination for immigrants from around the world due to its stable economy, high standard of living, and diverse population.
+
+Canada has a welcoming immigration policy that offers various options for individuals to immigrate to the country, including skilled worker programs, family sponsorship, and refugee programs. The country also provides support to newcomers through settlement services, language classes, and other resources to help them integrate into Canadian society.
+
+Furthermore, Canada is known for its multiculturalism, and the country is home to many different ethnic groups and cultures. This diversity contributes to a welcoming and inclusive society that provides opportunities for people to express their cultural heritage and be accepted for who they are.
+
+Overall, Canada may be an attractive destination for those seeking immigration due to its strong economy, diverse and inclusive society, and supportive immigration policies.
+
+I love to create, and I want to make a difference in the world. Here are some programmes of Mechanical Engineering and Computer Science in CANADA. I suppose the study is a sensible approach to immigrate to CANADA as I mentioned above.
 
 ## Programmes
-
-Here are some programmes of Mechanical Engineering and Computer Science.
 
 {: .box-warning}
 **Useful links:** [SchoolFinder](https://www.schoolfinder.com/), [GPA Calculator](https://applications.wes.org/igpa-calculator/), [ApplyBoard](https://www.applyboard.com/)
