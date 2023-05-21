@@ -4,16 +4,16 @@ title: About me
 subtitle: Gai chi chi gai he he, sha shier bie wang xin li ge.
 ---
 
-My name is Mr. Understand. I'm an engineer and project manager.
+I'm Mr. Dong. An engineer and project manager.
 
 # Table of contents
 
-- [My Story](#Mystory)
-- [Time Line](#Time-line)
+- [My Story](#my-story)
+- [Time Line](#time-line)
 - [**My RUN** in 3 steps](##My-RUN)
 
 
-# Mystory
+# My story
 
 Like a lot of kids, I dreamed of flying. As an adult, that dream didn’t fade away. Maybe someday, after a lot of work, I could make my dream a reality. Growing up, it didn’t seem like there were many opportunities in aviation for someone like me in China mainland. Flying was a dream and, I thought, a dream only.
 
@@ -25,7 +25,7 @@ I want an aircraft with 4 seats, high wings, and a tailwheel. There are two deci
 
 I’m happy to share the following story with you. I hope that others can learn from my experiences and get inspired to go work on their own. Please keep in touch with me and follow along with the project and my adventures.
 
-#Time-line
+# Time-line
 
 - **IELTS:** 2023-*-*
 - **VISA:** 2023-*-*
