@@ -3,7 +3,7 @@ layout: post
 title: SAIT - Software Development
 subtitle: Southern Alberta Institute of Technology
 cover-img: assets/img/Van-Skyline-sm.jpeg
-thumbnail-img: _posts/img2023/sait_thumb.jpeg
+thumbnail-img: assets/img2023/sait_thumb.jpeg
 share-img: assets/img/Van-Skyline-sm.jpeg
 tags: [canada, Calgary, SAIT, Software Development]
 ---
@@ -47,3 +47,8 @@ Related careers include:
 - full-stack web developer
 
 Upon accumulating additional experience and certifications within professional settings, graduates may progress into more advanced roles within their organizations.
+
+# Cost of living per year (Estimate)
+| SAIT fees | Housing | Eating | Transporting | Others | Total |
+|------|---------------------|--------------|-----------|-------------|------|
+| $26,000.00 | $15,000.00| $6,000.00 |	$10,000.00 | $5,000.00	| $60,000.00 |
