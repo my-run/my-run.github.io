@@ -8,17 +8,15 @@ share-img: assets/img/Van-Skyline-sm.jpeg
 tags: [canada, Calgary, SAIT, Software Development]
 ---
 
-{: .box-warning}
-**Useful links:** [SAIT-Software Development-official](https://www.sait.ca/programs-and-courses/diplomas/software-development)
-
-## Software Development
+Start your career in computer programming with hands-on, applied education in full-stack software development. Computer software engineering and development is an in-demand and growing field where you will play a vital role.
 
 ### Introduction
 
 Credential: Diploma
 Length: 2 years
 
->Start your career in computer programming with hands-on, applied education in full-stack software development. Computer software engineering and development is an in-demand and growing field where you will play a vital role.
+{: .box-warning}
+**Useful links:** [SAIT-Software Development-official](https://www.sait.ca/programs-and-courses/diplomas/software-development)
 
 ### Tuition and fees (Costs 2023/24)
 
@@ -51,4 +49,4 @@ Upon accumulating additional experience and certifications within professional s
 # Cost of living per year (Estimate)
 | SAIT fees | Housing | Eating | Transporting | Others | Total |
 |------|---------------------|--------------|-----------|-------------|------|
-| $26,000.00 | $15,000.00| $6,000.00 |	$10,000.00 | $5,000.00	| $60,000.00 |
+| $27,000.00 | $14,000.00| $6,000.00 |	$10,000.00 | $3,000.00	| $60,000.00 |
