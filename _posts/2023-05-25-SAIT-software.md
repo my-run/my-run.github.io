@@ -21,7 +21,7 @@ Length: 2 years
 ### Tuition and fees (Costs 2023/24)
 
 | Year | Number of semesters | Tuition fees | SAIT fees	| Saitsa fees | Total |
-|------|---------------------|--------------|-----------|-------------|------|
+|-|-|-|-|-|-|
 | 1	| 2	| $23,571.60 |	$948 | $622	| $25,141.60 |
 | 2	| 2	| $23,571.60 |	$948 |	$622 |	$25,141.60 |
 
@@ -48,5 +48,5 @@ Upon accumulating additional experience and certifications within professional s
 
 # Cost of living per year (Estimated)
 | SAIT fees | Housing | Eating | Transporting | Others | Total |
-|------|--------|---------|-----------|-------------|------|
-| $27,000.00 | $14,000.00| $6,000.00 |	$10,000.00 | $3,000.00	| $60,000.00 |
+|-|-|-|-|-|-|
+| $27,000.00 | $14,000.00 | $6,000.00 |	$10,000.00 | $3,000.00	| $60,000.00 |
