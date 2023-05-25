@@ -26,7 +26,12 @@ I’m happy to share the following story with you. I hope that others can learn 
 
 # Time line
 
+- **学信网认证:** 2023-05-25 成绩认证成功
+- **WES认证:** 2023-05-25 上传WES
 - **IELTS:** 2023-*-*
 - **VISA:** 2023-*-*
 - **Tickets:** 2023-*-*
 
+
+{: .box-warning}
+**Useful links:** [WES认证攻略](https://zhuanlan.zhihu.com/p/451456046)
