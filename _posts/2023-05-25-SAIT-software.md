@@ -16,19 +16,14 @@ Start your career in computer programming with hands-on, applied education in fu
 
 Celebrating 100 years of history, SAIT's main campus is located close to downtown Calgary, with excellent transit access throughout the city. SAIT's multicultural environment consists of more than 1,500 international students from more than 163 countries.
 
-Credential: Diploma
-Length: 2 years
-Location: Calgary, Alberta
+Credential: Diploma  
+Length: 2 years  
+Location: Calgary, Alberta  
 
 {: .box-warning}
-**Useful links:** [SAIT-Software Development-official](https://www.sait.ca/programs-and-courses/diplomas/software-development), [Steps to Study in Alberta](http://study.alberta.ca/steps-to-study-in-alberta/#3)
+**Useful links:** [SAIT-Software Development-official](https://www.sait.ca/programs-and-courses/diplomas/software-development), [Steps to Study in Alberta](http://study.alberta.ca/steps-to-study-in-alberta/#3), [Apply for a Study Permit](http://study.alberta.ca/apply-to-study/apply-for-a-study-permit/)
 
-### Tuition and fees (Costs 2023/24)
 
-| Year | Number of semesters | Tuition fees | SAIT fees	| Saitsa fees | Total |
-|-|-|-|-|-|-|
-| 1	| 2	| $23,571.60 |	$948 | $622	| $25,141.60 |
-| 2	| 2	| $23,571.60 |	$948 |	$622 |	$25,141.60 |
 
 ### Campus map
 ![SAIT](https://www.sait.ca/assets/images/sait/in-body-and-galleries/about-sait/campus/in-sait-campus-map-645x826.jpg)
@@ -51,7 +46,16 @@ Related careers include:
 
 Upon accumulating additional experience and certifications within professional settings, graduates may progress into more advanced roles within their organizations.
 
+### Tuition and fees (Costs 2023/24)
+
+| Year | Number of semesters | Tuition fees | SAIT fees	| Saitsa fees | Total |
+|-|-|-|-|-|-|
+| 1	| 2	| $23,571.60 |	$948 | $622	| $25,141.60 |
+| 2	| 2	| $23,571.60 |	$948 |	$622 |	$25,141.60 |
+
+
 ### Cost of Living Estimate
+
 This estimate is a guideline. Living costs vary greatly based on the type of accommodation, whether you are sharing accommodation with roommates, and your overall standard of living. All figures are in Canadian dollars (CAD).
 
 |Item|Monthly|Full Year (Sept. to Aug.)|
@@ -60,7 +64,7 @@ This estimate is a guideline. Living costs vary greatly based on the type of acc
 |Food|$250|$3,000|
 |Clothing|$50|$600|
 |Miscellaneous*|$155|$1860|
-|**Cost of Living Total**|$1,255–$1,50|$15,060–$18,060|
+|**Cost of Living Total**|**$1,255–$1,505**|**$15,060–$18,060**|
 
 *Miscellaneous costs include monthly phone ($50), laundry ($30) and recreation/entertainment ($75).
 
