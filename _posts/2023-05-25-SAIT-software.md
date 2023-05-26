@@ -2,9 +2,9 @@
 layout: post
 title: SAIT - Software Development
 subtitle: Southern Alberta Institute of Technology
-cover-img: assets/img2023/Panorama-eastern-Calgary-skyline.jpg
+cover-img: assets/img2023/northern-lights-i19-024915.jpg
 thumbnail-img: assets/img2023/sait_thumb.jpeg
-share-img: assets/img2023/Panorama-eastern-Calgary-skyline.jpg
+share-img: assets/img2023/northern-lights-i19-024915.jpg
 tags: [canada, Calgary, SAIT, Software Development]
 ---
 
