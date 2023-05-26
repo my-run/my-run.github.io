@@ -48,6 +48,7 @@ Upon accumulating additional experience and certifications within professional s
 
 ### Tuition and fees (Costs 2023/24)
 
+
 | Year | Number of semesters | Tuition fees | SAIT fees	| Saitsa fees | Total |
 |-|-|-|-|-|-|
 | 1	| 2	| $23,571.60 |	$948 | $622	| $25,141.60 |
@@ -67,4 +68,30 @@ This estimate is a guideline. Living costs vary greatly based on the type of acc
 |**Cost of Living Total**|**$1,255–$1,505**|**$15,060–$18,060**|
 
 *Miscellaneous costs include monthly phone ($50), laundry ($30) and recreation/entertainment ($75).
+
+### Weather in Alberta
+Alberta has four distinct seasons: spring, summer, fall and winter.
+
+- Spring can be wet, with some warm days
+- Summer is very hot with temperatures reaching 30°C
+- Fall can be windy and chilly
+- Winter is cold with temperatures reaching -30°C
+
+
+### Finalize Your Paperwork Before You Leave
+Before you leave for Alberta, do a final check of your documentation. Do you have everything you need?
+
+Confirm your higher education institution has all of the paperwork they need from you, and what they may need to see when you arrive
+Ensure all of your documents are in order and make photocopies to pack in your baggage, to leave at home, and to send to your email address. These documents include:
+- Passport
+- Airline tickets
+- Travel insurance certificate
+- Letter of acceptance for your Canadian educational institution
+- Key addresses and phone numbers
+- A bank statement showing proof of funds
+- Letter of introduction from Canadian immigration, if applicable
+- Prescriptions for any medication you are carrying
+- Traveller’s cheques, if applicable
+- Medical and immunization records
+- Academic history and university transcripts
 
