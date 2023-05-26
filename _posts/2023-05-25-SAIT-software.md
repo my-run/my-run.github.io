@@ -59,7 +59,7 @@ Upon accumulating additional experience and certifications within professional s
 This estimate is a guideline. Living costs vary greatly based on the type of accommodation, whether you are sharing accommodation with roommates, and your overall standard of living. All figures are in Canadian dollars (CAD).
 
 |Item|Monthly|Full Year (Sept. to Aug.)|
-|-|-|-|
+|----|----------------|-----------------|
 |Accommodation  (Single, off-campus, not shared)|$800–$1,050|$9,600–$12,600|
 |Food|$250|$3,000|
 |Clothing|$50|$600|
