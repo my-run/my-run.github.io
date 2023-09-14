@@ -4,9 +4,9 @@ title: About me
 subtitle: Gai chi chi gai he he, sha shier bie wang xin li ge.
 ---
 
-I'm Mr. DSZ. An engineer and project manager.
+I'm Enzo Guo. An engineer and project manager.
 
-# My RUN in 3 steps
+# Contents
 
 - [My Story](#my-story)
 - [Time Line](#time-line)
@@ -23,6 +23,12 @@ However, when COVID hit, most activities shut down. I saw this as the perfect op
 I want an aircraft with 4 seats, high wings, and a tailwheel. There are two decisive choices. One is the Van’s RV-15, and one is the Murphy’s Radical. But at the current status, there are a lot of other things still to be addressed. It’s going to be a long process to get it into the air. The most important thing for me is learning English and taking a test as soon as possible. Without that, the dream is still only a dream.
 
 I’m happy to share the following story with you. I hope that others can learn from my experiences and get inspired to go work on their own. Please keep in touch with me and follow along with the project and my adventures.
+
+You're just here to experience life.
+You can't own anything.
+You can't keep anything.
+You don't need to prove anything.
+What you can do is to keep trying, harvesting, feeling and letting go.
 
 # Time line
 
